@@ -33,7 +33,7 @@ The website was created using:
 
 ## 👥 Team Members  
 
-### Yarrapureddy Parthiv Reddy (Me)  
+### Parthiv Reddy Yarrapureddy  (Me)  
 - **Role**: Ideation, research, and design.  
 - **Bio**: I am a B.Tech CSE student at Mahindra University, passionate about research, surveys, and innovative design. Skilled in problem-solving, data analysis, and developing efficient solutions to drive technological progress.  
 
