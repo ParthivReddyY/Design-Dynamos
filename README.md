@@ -40,6 +40,7 @@ The website was created using:
 ### Jugal Kishore Reddy Thangella  
 - **Role**: Ideation, research, and design.  
 - **Bio**: I am a B.Tech CSE student at Mahindra University. I focus on ideation, research, and design.  
+- **GitHub**: [tjkreddy](https://github.com/tjkreddy)
 
 ### Lakshmi Reddy Vangala  
 - **Role**: Design, critical thinking, and problem-solving.  
