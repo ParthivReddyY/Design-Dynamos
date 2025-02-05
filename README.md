@@ -43,7 +43,8 @@ The website was created using:
 
 ### Lakshmi Reddy Vangala  
 - **Role**: Design, critical thinking, and problem-solving.  
-- **Bio**: I am a B.Tech CSE student at Mahindra University. I specialize in design, critical thinking, and solving complex problems.  
+- **Bio**: I am a B.Tech CSE student at Mahindra University. I specialize in design, critical thinking, and solving complex problems.
+ https://github.com/LAKSHMIREDDY18  
 
 ### Thannoj Pallabothula  
 - **Role**: Research and collaboration.  
