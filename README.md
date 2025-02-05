@@ -34,7 +34,7 @@ The website was created using:
 ## 👥 Team Members  
 
 ### Parthiv Reddy Yarrapureddy  (Me)  
-- **Role**: Ideation, research, and design.  
+- **Role**: Research, Surveys, and Innovative design.  
 - **Bio**: I am a B.Tech CSE student at Mahindra University, passionate about research, surveys, and innovative design. Skilled in problem-solving, data analysis, and developing efficient solutions to drive technological progress.  
 
 ### Jugal Kishore Reddy Thangella  
